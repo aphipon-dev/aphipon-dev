@@ -19,13 +19,22 @@
 ---
 
 
-### 📊 GitHub Statistics
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=aphipon-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
 
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aphipon-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=aphipon-dev&show_icons=true&theme=tokyonight" height="165" />
+
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aphipon-dev&layout=compact&theme=tokyonight" height="165" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aphipon-dev&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" />
+
 </div>
+
+
 
 
 ---
