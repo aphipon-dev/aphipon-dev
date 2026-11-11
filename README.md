@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 Computer Science Student at **University of phayao**
-- 💡 Interested in **Web Development**
+- 💡 Interested in **Web Development and cyber security**
 - 🎯 Current Goal: Learning Full-Stack Development
 - 💬 Ask me about **Python**
 
